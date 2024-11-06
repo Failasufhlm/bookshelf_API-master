@@ -1,3 +1,12 @@
+# Message for Reviewer
+
+## How to running application
+```
+npm start
+npm run start
+```
+## Struktur Direktory
+```
 bookshelf-api/
 │
 ├── src/
@@ -18,9 +27,10 @@ bookshelf-api/
 ├── .gitignore
 ├── package.json
 └── README.md
+```
 
-# npm run start-dev
-# npm run start
+## Terdapat 7 kriteria utama yang harus Anda penuhi dalam membuat proyek Bookshelf API.
+```
 Terdapat 7 kriteria utama yang harus Anda penuhi dalam membuat proyek Bookshelf API.
 
 * Kriteria 1 : Aplikasi menggunakan port 9000 || compeleted
@@ -30,3 +40,4 @@ Terdapat 7 kriteria utama yang harus Anda penuhi dalam membuat proyek Bookshelf 
 * Kriteria 5 : API dapat menampilkan detail buku || completed
 * Kriteria 6 : API dapat mengubah data buku || completed
 * Kriteria 7 : API dapat menghapus buku || compledted
+```
