@@ -2,29 +2,29 @@ bookshelf-api/
 │
 ├── src/
 │   ├── config/
-│   │   └── config.js           # Konfigurasi aplikasi 
+│   │   └── config.js
 │   │
 │   ├── controllers/
-│   │   └── booksController.js   # Logika untuk mengelola buku
+│   │   └── booksController.js
 │   │
 │   ├── models/
-│   │   └── bookModel.js         # Model untuk buku 
+│   │   └── bookModel.js
 │   │
 │   ├── routes/
-│   │   └── booksRoutes.js       # Rute untuk API buku
+│   │   └── booksRoutes.js
 │   │
 │   ├── services/
-│   │   └── booksService.js       # Layanan untuk logika bisnis terkait buku
+│   │   └── booksService.js
 │   │
 │   ├── utils/
-│   │   └── helper.js            # Fungsi utilitas yang dapat digunakan di seluruh aplikasi
+│   │   └── helper.js
 │   │
-│   └── server.js                # File utama untuk menjalankan server
+│   └── server.js
 │
-├── .env                          # File untuk variabel lingkungan
-├── .gitignore                    # File untuk mengabaikan file/folder tertentu dalam version control
-├── package.json                  # File konfigurasi npm
-└── README.md                     # Dokumentasi proyek
+├── .env
+├── .gitignore
+├── package.json
+└── README.md
 
 # npm run start-dev
 # npm run start
