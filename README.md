@@ -3,24 +3,17 @@ bookshelf-api/
 ├── src/
 │   ├── config/
 │   │   └── config.js
-│   │
 │   ├── controllers/
 │   │   └── booksController.js
-│   │
 │   ├── models/
 │   │   └── bookModel.js
-│   │
 │   ├── routes/
 │   │   └── booksRoutes.js
-│   │
 │   ├── services/
 │   │   └── booksService.js
-│   │
 │   ├── utils/
 │   │   └── helper.js
-│   │
 │   └── server.js
-│
 ├── .env
 ├── .gitignore
 ├── package.json
